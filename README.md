@@ -8,7 +8,7 @@
 - <b>HTTP(S) Traffic Sniffing</b><i>( Web Browser, Wireshack)</i>
   - [Using Wireshark to sniff the traffic for both portals](https://github.com/LeslieJosephClarkson/HTTP-S-Traffic-Sniffing)  
   
-- <b>Find the secrect server</b><i>(  Kali GUI instance, Web Browser)</i>
+- <b>Find the secret server</b><i>(  Kali GUI instance, Web Browser)</i>
   - [Configuring the routes on the Kali instance to reach all the hosts in the networks](https://github.com/LeslieJosephClarkson/Findthesecretserver)  
   
 <i><b>Software Development Projects</i></b>
