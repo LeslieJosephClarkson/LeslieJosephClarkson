@@ -5,6 +5,9 @@
 - <b>Azure-Sentinel-SIEM</b><i>(Powershell, Microsoft Azure, Virtual Machine)</i>
   - [Deploying Azure Sentinel, a cloud-based SIEM](https://github.com/LeslieJosephClarkson/Azure-Sentinel-SIEM-)
   
+- <b>HTTP(S) Traffic Sniffing</b><i>( Web Browser, Wireshack)</i>
+  - [Using Wireshark to sniff the traffic for both portals](https://github.com/LeslieJosephClarkson/HTTP-S-Traffic-Sniffing)  
+  
 <i><b>Software Development Projects</i></b>
 - <b>Full Database Project for Azusa Pacific University Cubesat Program</b><i>(C#, Python, Visual Basic .NET)</i>
   - [APU Cubesat Database Collection](https://github.com/aaronscout622/AMSAT-DATA-COLLECTION) 
