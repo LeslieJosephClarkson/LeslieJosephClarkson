@@ -8,6 +8,9 @@
 - <b>HTTP(S) Traffic Sniffing</b><i>( Web Browser, Wireshack)</i>
   - [Using Wireshark to sniff the traffic for both portals](https://github.com/LeslieJosephClarkson/HTTP-S-Traffic-Sniffing)  
   
+- <b>Find the secrect server</b><i>(  Kali GUI instance, Web Browser)</i>
+  - [Configuring the routes on the Kali instance to reach all the hosts in the networks](https://github.com/LeslieJosephClarkson/Findthesecretserver)  
+  
 <i><b>Software Development Projects</i></b>
 - <b>Full Database Project for Azusa Pacific University Cubesat Program</b><i>(C#, Python, Visual Basic .NET)</i>
   - [APU Cubesat Database Collection](https://github.com/aaronscout622/AMSAT-DATA-COLLECTION) 
