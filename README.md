@@ -16,11 +16,13 @@
   - [APU Cubesat Database Collection](https://github.com/aaronscout622/AMSAT-DATA-COLLECTION) 
 
 <h2>👨‍💻 IT Projects:</h2>
+
 <i><b>Information Technology Projects</i></b>
 - <b>osTicket (Help Desk Ticketing System)</b><i></i>
   - [osTicket: Prerequisites and Installation](https://github.com/ebonyrodah/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ebonyrodah/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ebonyrodah/ticket-lifecycle)
+
 - <b>osTicket (Microsoft Azure)</b><i></i>
   - [Configuring Active Directory within Azure VMs](https://github.com/ebonyrodah/configure-ad)
   - [Network Security Groups](https://github.com/ebonyrodah/azure-network)
