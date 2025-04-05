@@ -19,7 +19,12 @@
 <i><b>Information Technology Projects</i></b>
 - <b>osTicket (Help Desk Ticketing System)</b><i></i>
   - [osTicket: Prerequisites and Installation](https://github.com/ebonyrodah/osticket-prereqs)
-  - 
+  - [osTicket: Post-Installation Configuration](https://github.com/ebonyrodah/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ebonyrodah/ticket-lifecycle)
+- <b>osTicket (Microsoft Azure)</b><i></i>
+  - [Configuring Active Directory within Azure VMs](https://github.com/ebonyrodah/configure-ad)
+  - [Network Security Groups](https://github.com/ebonyrodah/azure-network)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="leslie-c-7732b518a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
