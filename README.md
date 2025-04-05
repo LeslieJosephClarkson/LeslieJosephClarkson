@@ -17,7 +17,7 @@
 
 
 <i><b>Information Technology Projects</i></b>
-- <b>osTicket (Help Desk Ticketing System)</b><i>()</i>
+- <b>osTicket (Help Desk Ticketing System)</b><i></i>
   - [osTicket: Prerequisites and Installation](https://github.com/ebonyrodah/osticket-prereqs)
   - 
 <h2> 🤳 Connect with me:</h2>
