@@ -15,7 +15,7 @@
 - <b>Full Database Project for Azusa Pacific University Cubesat Program</b><i>(C#, Python, Visual Basic .NET)</i>
   - [APU Cubesat Database Collection](https://github.com/aaronscout622/AMSAT-DATA-COLLECTION) 
 
-
+<h2>👨‍💻 IT Projects:</h2>
 <i><b>Information Technology Projects</i></b>
 - <b>osTicket (Help Desk Ticketing System)</b><i></i>
   - [osTicket: Prerequisites and Installation](https://github.com/ebonyrodah/osticket-prereqs)
